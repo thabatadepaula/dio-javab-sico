@@ -1,2 +1,2 @@
 # dio-javab-sico
-Repositório para os conteúdos do curso Java da Dio
+Repositório para os conteúdos do curso Java da Dio, bootcamp Inter. 
